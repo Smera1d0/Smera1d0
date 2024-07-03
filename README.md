@@ -36,7 +36,8 @@
 
 <div align="center">
   <h3>Welcome to my blog!</h3>
-  <h3>https://smera1d0.github.io</h3>
+  <h4>https://smera1d0.github.io</h4>
+  <h4>https://www.cnblogs.com/Smera1d0</h4>
 </div>
 
 
