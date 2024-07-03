@@ -30,7 +30,7 @@
 
 
 <div align="center">
-  <h3>My Stack</h3>
+  <h3>𝙼𝚢 𝚂𝚝𝚊𝚌𝚔</h3>
 </div>
 
 
@@ -41,7 +41,7 @@
 </div>
 
 <div align="center">
-  <h3>My Tools</h3>
+  <h3>𝙼𝚢 𝚃𝚘𝚘𝚕𝚜</h3>
 </div>
 
 <div align="center">
