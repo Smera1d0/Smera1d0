@@ -9,8 +9,10 @@
 
 </div>
 
-### <center> My Stack </center>
+### My Stack
+<div align="center">
 ![stack](https://skillicons.dev/icons?i=python,md,nodejs,ps,js,css,cpp,c,docker&perline=6&theme=dark)
+</div>
 
 <div align="center">
 
