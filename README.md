@@ -54,10 +54,18 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Smera1d0&layout=compact&hide=html&title_color=FFE652&theme=radical&text_color=71DFE7&hide_border=1&border_radius=10" alt="Smera1d0">
 </p>
 
+
 <div align="center">
   <h3>Welcome to my blog!</h3>
   <h4>https://smera1d0.github.io</h4>
   <h4>https://www.cnblogs.com/Smera1d0</h4>
+</div>
+
+
+<div align="center">
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSmera1d0&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 </div>
 
 
