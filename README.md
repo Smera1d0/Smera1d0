@@ -9,12 +9,14 @@
 
 </div>
 
-### My Stack
+<div align="center">
+  <h3>My Stack</h3>
+</div>
 
 
 <div align="center">
   
-![stack](https://skillicons.dev/icons?i=python,md,nodejs,ps,js,css,cpp,c,docker&perline=6&theme=dark)
+![stack](https://skillicons.dev/icons?i=python,md,nodejs,ps,js,css,cpp,c,docker,latex&perline=6&theme=dark)
 
 </div>
 
