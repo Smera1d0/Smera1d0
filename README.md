@@ -26,7 +26,7 @@
 
 <div align="center">
   
-![stack](https://skillicons.dev/icons?i=vscode,clash,neovim,vim,github,notion,linux,ubuntu,pycharm,discord,vivado&perline=5&theme=dark)
+![stack](https://skillicons.dev/icons?i=vscode,windows,neovim,vim,github,notion,linux,ubuntu,pycharm,discord,vivado&perline=5&theme=dark)
 
 </div>
 
