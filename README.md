@@ -1,5 +1,17 @@
 <div align="center">
+  <img src="https://s2.loli.net/2024/07/03/d4nDqE3HylcjQMC.jpg" alt="image" width="300">
+</div>
+
+<div align="center">
   <h1><pre>Hi, I'm 𝕊𝕞𝕖𝕣𝕒𝟙𝕕𝟘</pre></h1>
+</div>
+
+<div align="center">
+  <h3>𝑵𝒐 𝒑𝒂𝒊𝒏, 𝒏𝒐 𝒈𝒂𝒊𝒏.</h3>
+</div>
+
+<div align="center">
+  <h4><pre>study in SDU,major in cibersecurity</pre></h4>
 </div>
 
 
@@ -15,6 +27,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Smera1d0&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
+
 
 <div align="center">
   <h3>My Stack</h3>
