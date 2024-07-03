@@ -16,7 +16,7 @@
 
 <div align="center">
   
-![stack](https://skillicons.dev/icons?i=python,md,verilog,ps,js,css,cpp,c,docker,latex&perline=5&theme=dark)
+![stack](https://skillicons.dev/icons?i=python,md,nodejs,ps,js,css,cpp,c,docker,latex&perline=5&theme=dark)
 
 </div>
 
@@ -26,7 +26,7 @@
 
 <div align="center">
   
-![stack](https://skillicons.dev/icons?i=vscode,vs,github,notion,linux,ubuntu,pycharm,discord,vivado&perline=5&theme=dark)
+![stack](https://skillicons.dev/icons?i=vscode,clash,neovim,vim,github,notion,linux,ubuntu,pycharm,discord,vivado&perline=5&theme=dark)
 
 </div>
 
