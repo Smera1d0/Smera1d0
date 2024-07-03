@@ -11,7 +11,7 @@
 </div>
 
 <div align="center">
-  <h4><pre>study in SDU,major in cibersecurity</pre></h4>
+  <h4><pre>study in SDU, major in cibersecurity</pre></h4>
 </div>
 
 
