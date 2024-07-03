@@ -30,11 +30,9 @@
 
 </div>
 
-<div align="center">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Smera1d0&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Smera1d0&layout=compact&hide=html&title_color=FFE652&theme=radical&text_color=71DFE7&hide_border=1&border_radius=10" alt="Smera1d0">
+</p>
 
 
 
