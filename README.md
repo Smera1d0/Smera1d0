@@ -16,7 +16,17 @@
 
 <div align="center">
   
-![stack](https://skillicons.dev/icons?i=python,md,nodejs,ps,js,css,cpp,c,docker,latex&perline=6&theme=dark)
+![stack](https://skillicons.dev/icons?i=python,md,nodejs,ps,js,css,cpp,c,docker,latex&perline=5&theme=dark)
+
+</div>
+
+<div align="center">
+  <h3>My Tools</h3>
+</div>
+
+<div align="center">
+  
+![stack](https://skillicons.dev/icons?i=vscode,github,notion,typera,obsdian,linux,ubuntu,wsl,pycharm,discord&perline=5&theme=dark)
 
 </div>
 
