@@ -28,6 +28,14 @@
 
 </div>
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Smera1d0&theme=react-dark&bg_color=0d1117&hide_border=true&color=5865F2&line=5865F2">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Smera1d0&theme=minimal&hide_border=true&color=5865F2&line=5865F2">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Smera1d0" width="90%"/>
+  </picture>
+</div>
+
 
 <div align="center">
   <h3>𝙼𝚢 𝚂𝚝𝚊𝚌𝚔</h3>
@@ -63,9 +71,12 @@
 
 
 <div align="center">
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSmera1d0&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
+  <a href="https://smera1d0.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/BLOG-5865F2?style=for-the-badge&logo=matrix&logoColor=white" />
+  </a>
+  <a href="mailto:2838108306@qq.com" target="_blank">
+    <img src="https://img.shields.io/badge/MAIL-5865F2?style=for-the-badge&logo=protonmail&logoColor=white" />
+  </a>
 </div>
 
 
