@@ -17,23 +17,8 @@
 
 <div align="center">
 
-[![CodeTime Badge](https://img.shields.io/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D27075%26project%3D%26in=0)](https://codetime.dev)
-
-</div>
-
-
-<div align="center">
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Smera1d0&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-</div>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Smera1d0&theme=react-dark&bg_color=0d1117&hide_border=true&color=5865F2&line=5865F2">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Smera1d0&theme=minimal&hide_border=true&color=5865F2&line=5865F2">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Smera1d0" width="90%"/>
-  </picture>
 </div>
 
 
