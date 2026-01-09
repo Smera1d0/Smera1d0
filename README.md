@@ -14,7 +14,7 @@
 </h1>
 
 <div align="center">
-  <h4><pre>4th-year undergraduate student at Shandong University, Intern at State Key Laboratory of BCDS, Zhejiang University.</pre></h4>
+	<h4><pre>4th-year undergraduate student at Shandong University<br>Intern at State Key Laboratory of BCDS, Zhejiang University.</pre></h4>
 </div>
 
 <div align="center">
