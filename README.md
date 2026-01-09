@@ -13,6 +13,7 @@
 
 <a href="https://www.zju.edu.cn/" target="_blank" style="margin-top: 10px"><img src="https://s2.loli.net/2026/01/09/WCXE1mOJIeArQTY.png"  height="90px" style="margin-bottom:-1px"></a>
 <a href="https://www.sdu.edu.cn/" target="_blank" style="margin-top: 10px"><img src="https://s2.loli.net/2026/01/09/u26oeCWzi3EFcHf.png"  height="90px" style="margin-bottom:-1px"></a>
+<a href="https://www.sdu.edu.cn/" target="_blank" style="margin-top: 10px"><img src="https://s2.loli.net/2026/01/09/tYzXlPSTL9JFkxN.png"  height="90px" style="margin-bottom:-1px"></a>
 </a>
 
 </h1>
