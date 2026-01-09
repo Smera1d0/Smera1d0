@@ -43,18 +43,11 @@
 </div>
 
 <div align="center">
-  <h3>Welcome to my blog!</h3>
-  <h4>https://smera1d0.github.io</h4>
-  <h4>https://www.cnblogs.com/Smera1d0</h4>
-</div>
 
-<div align="center">
-  <a href="https://smera1d0.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/BLOG-5865F2?style=for-the-badge&logo=matrix&logoColor=white" />
-  </a>
-  <a href="mailto:2838108306@qq.com" target="_blank">
-    <img src="https://img.shields.io/badge/MAIL-5865F2?style=for-the-badge&logo=protonmail&logoColor=white" />
-  </a>
+[![My Blog](https://img.shields.io/badge/Personal_Blog-2ea44f?style=for-the-badge&logo=github)](https://smera1d0.github.io)
+[![CNBlogs](https://img.shields.io/badge/CN_Blogs-FF4500?style=for-the-badge&logo=blogger&logoColor=white)](https://www.cnblogs.com/Smera1d0)
+[![Email](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:2838108306@qq.com)
+
 </div>
 
 
